@@ -1,6 +1,6 @@
 sourceBasePath: https://raw.githubusercontent.com/ericswildens/echo/master/src
 commands:
-  echo:
+  echo2:
     sourcePath: /echo.js
     description: simple echo test
     parameters:
