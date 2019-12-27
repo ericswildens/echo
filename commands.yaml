@@ -5,3 +5,4 @@ commands:
     description: simple echo test
     parameters:
       - name: msg
+      - name: asd
